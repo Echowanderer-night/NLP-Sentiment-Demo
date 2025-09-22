@@ -40,14 +40,14 @@ python sentiment_train.py
 运行交互式预测脚本：
 python sentiment_predict.py
 示例：
-![交互 example](images/text_exmaple.png)
+![交互 example](image/text_example.png)
 
 4. 网页 Demo
 运行 Flask 应用：
 python app.py
 浏览器打开： http://127.0.0.1:5000
 示例效果：
-![网页 Demo](images/wed_demo.png)
+![网页 Demo](image/web_demo.png)
 
 模型介绍
 文本表示：TF-IDF 向量
